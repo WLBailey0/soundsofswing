@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function() {
+export default function News() {
     const [isClicked, setIsClicked] = React.useState(false)
 
     function handleEvent(){
